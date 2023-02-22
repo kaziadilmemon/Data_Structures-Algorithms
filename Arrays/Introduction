@@ -13,6 +13,7 @@ n (N-based indexing): The base index of an array can be freely chosen. Usually, 
 Array Data Structure
 
 ## What are the different operations on the array?
+
 Arrays allow random access to elements. This makes accessing elements by position faster. Hence operation like searching, insertion, and access becomes really efficient. Array elements can be accessed using the loops.
 
 1. Insertion in Array:
